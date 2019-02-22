@@ -1,3 +1,9 @@
+"""
+Author: 陈天翼（Apollo Chen）
+Date: 2019-02-18
+Description: 学习重点：键盘响应，条件判断，游戏设计，类定义
+"""
+
 def cellSize() :
     return 10
 

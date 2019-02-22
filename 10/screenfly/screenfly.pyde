@@ -1,7 +1,7 @@
 """
-The first Processing Source Code of 2019
-Happy New Year
-By Apollo Chen
+Author: 陈天翼（Apollo Chen）
+Date: 2019-02-18
+Description: 学习重点：随机函数，字符串函数，汉字处理，字体函数，列表
 """
 
 lines = []

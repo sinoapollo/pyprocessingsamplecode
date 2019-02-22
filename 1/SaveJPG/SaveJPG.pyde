@@ -1,6 +1,6 @@
 """
 Author: 陈天翼（Apollo Chen）
-Date: 20190-2-18
+Date: 2019-02-18
 Description: 学习重点：beginShape, vertex, endShape, save, saveFrame
 """
 

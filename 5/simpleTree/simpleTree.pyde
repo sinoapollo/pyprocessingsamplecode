@@ -1,6 +1,6 @@
 """
 Author: 陈天翼（Apollo Chen）
-Date: 20190-2-18
+Date: 2019-02-18
 Description: 借鉴自openprocessing.org
              学习重点：函数，递归
 """
